@@ -15,14 +15,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=StephenTheodore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=FFFFFF" height="180" />
+<img src="https://stephen-github-readme-stats.vercel.app/api?username=StephenTheodore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=FFFFFF" height="180" />
 <img src="https://streak-stats.demolab.com?user=StephenTheodore&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=BD00FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=888888" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenTheodore&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="160" />
+<img src="https://stephen-github-readme-stats.vercel.app/api/top-langs/?username=StephenTheodore&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" height="160" />
 
 </div>
 
